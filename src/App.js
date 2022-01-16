@@ -1,10 +1,10 @@
 import './App.css';
-import TimerContainer from './components/TimerContainer';
+import ApiFetch from './components/ApiFetch';
 
 function App() {
   return (
     <div className="App">
-      <TimerContainer />
+      <ApiFetch />
     </div>
   );
 }
