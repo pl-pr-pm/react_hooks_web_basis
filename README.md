@@ -1,1 +1,1 @@
-## reacthooks + django Web 開発のけるreact側のリポジトリ
+## react+ django Web 基礎におけるフロント側のサービス
